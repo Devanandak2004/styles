@@ -1,0 +1,130 @@
+.img1 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    background-color: rgb(238, 26, 26);
+}
+
+.img2 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    background-color: rgb(206, 32, 32);
+}
+
+.img3 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    background-color: rgb(206, 32, 32);
+}
+
+.img4 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    background-color: rgb(206, 32, 32);
+}
+
+.img5 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    background-color: rgb(206, 32, 32);
+}
+
+.img6 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    background-color: rgb(206, 32, 32);
+}
+
+.img7 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    background-color: rgb(206, 32, 32);
+}
+
+.img8 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    background-color: rgb(206, 32, 32);
+}
+
+.img9 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    background-color: rgb(206, 32, 32);
+}
+
+.google {
+    border-radius: 10px;
+    width: 200px;
+    background-color: rgb(233, 233, 233);
+    padding: 10px 10px 10px;
+    border-style: dashed;
+}
+
+.g {
+    border: 10px;
+    border-style: double;
+}
+
+.t {
+    border: 10px;
+    border-style: double;
+}
+
+.w {
+    border: 10px;
+    border-style: double;
+}
+
+#continer3 {
+    padding: 200px 200px 200px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    background-color: rgb(246, 145, 145);
+    border-radius: 100px;
+}
+
+.circle2 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    background-color: rgb(246, 145, 145);
+    border-radius: 100px;
+}
+
+.circle3 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    background-color: rgb(246, 145, 145);
+    border-radius: 100px;
+}
+
+.circle4 {
+    width: 100px;
+    height: 100px;
+    padding: 10px 10px 10px;
+    background-color: rgb(246, 145, 145);
+    border-radius: 100px;
+}
