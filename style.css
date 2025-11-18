@@ -93,38 +93,73 @@
     border-style: double;
 }
 
-#continer3 {
-    padding: 200px 200px 200px;
+#cont {
+    padding: 100px 100px 100px;
 }
 
-.circle {
-    width: 100px;
-    height: 100px;
-    padding: 10px 10px 10px;
-    background-color: rgb(246, 145, 145);
-    border-radius: 100px;
+.outercontainer {
+    width: 29rem;
+    height: 29rem;
+    background-color: white;
+    border-style: dotted;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.circle2 {
-    width: 100px;
-    height: 100px;
-    padding: 10px 10px 10px;
-    background-color: rgb(246, 145, 145);
-    border-radius: 100px;
+.innercontainer {
+    position: relative;
+    width: 22rem;
+    height: 22rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    border-radius: 50%;
 }
 
-.circle3 {
-    width: 100px;
-    height: 100px;
-    padding: 10px 10px 10px;
-    background-color: rgb(246, 145, 145);
-    border-radius: 100px;
+.innercontainer span {
+    position: absolute;
+    color: aliceblue;
+    font-size: 50px;
 }
 
-.circle4 {
-    width: 100px;
-    height: 100px;
-    padding: 10px 10px 10px;
-    background-color: rgb(246, 145, 145);
-    border-radius: 100px;
+.B {
+    top: 30px;
+    left: 60px;
+    transform: rotate(315deg);
+}
+
+.M {
+    top: 0px;
+    left: 155px;
+}
+
+.W {
+    top: 40px;
+    right: 50px;
+    transform: rotate(42deg);
+}
+
+.container4 {
+    width: 16rem;
+    height: 16rem;
+    background-color: aliceblue;
+    border-radius: 50%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    overflow: hidden;
+}
+
+.square {
+    width: 100%;
+}
+
+.square-blue {
+    background-color: blue;
+}
+
+.square-white {
+    background-color: azure;
 }
